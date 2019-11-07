@@ -20,4 +20,4 @@ Observe how data transfer occurs in the form of a stream because TCP is a Stream
 
 # Schematic View
 
-![Schematic View](https://drive.google.com/file/d/1LUKAGFdGfE2GXxNKOhCZnWhXanppGi21/view?usp=sharing)
+![Schematic View](dccnSchematic.png)
