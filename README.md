@@ -7,8 +7,8 @@ The Client- Server architecture is implemented in the files Sender.py and Reciev
 
 # Prerequisites
 
-Python 2
-Python Socket Library
+Python 2  
+Python Socket Library  
 Python HashLib Library
 
 # Process
